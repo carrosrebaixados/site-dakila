@@ -1,0 +1,11 @@
+arvore-skills-rpg-dakila/
+├── index.html          # Arquivo principal HTML
+├── README.md           # Este arquivo
+├── LICENSE             # Licença do projeto
+├── .gitignore         # Arquivos ignorados pelo Git
+├── assets/
+│   ├── css/
+│   │   └── style.css   # Estilos da aplicação
+│   └── js/
+│       └── script.js   # Lógica JavaScript
+└── images/             # Diretório para imagens (se necessário)
